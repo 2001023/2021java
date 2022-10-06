@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T14:24:18.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="QYLzePW1tXtXdPKFg21r" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T14:25:27.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="k4fc9uGoyUM1mco11KoR" version="20.4.0" type="github">
   <diagram id="yuRan_RuWYPjwY_fkjEF" name="ページ1">
-    <mxGraphModel dx="903" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -141,6 +141,12 @@
         </mxCell>
         <mxCell id="gWe1SqaUuvBrcEo0pwH7-62" value="詳細用地図" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="385" y="470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWe1SqaUuvBrcEo0pwH7-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gWe1SqaUuvBrcEo0pwH7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" as="sourcePoint" />
+            <mxPoint x="450" y="-20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
